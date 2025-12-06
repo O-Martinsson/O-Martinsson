@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Oliver, and I'm an student in fullstack dev intrested in all things .NET & Data Science!
+
+- 🔭 I’m currently working on a PWA that tracks your progress in the sport you're playing.
+- 🌱 I’m currently learning SQL databases.
+- 👯 I’m looking to collaborate on any project that helps me grow in knowledge!
 <!--
 **O-Martinsson/O-Martinsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
